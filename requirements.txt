@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+langchain==0.0.198
+openai==0.27.7
+tabulate
+tqdm
+chainlit==0.3.0
